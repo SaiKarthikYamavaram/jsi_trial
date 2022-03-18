@@ -9,6 +9,9 @@
 .vscode/
 jsconfig.json
 
+# yarn
+.yarn/
+
 # Xcode
 #
 build/

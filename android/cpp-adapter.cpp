@@ -1,5 +1,5 @@
 #include <jni.h>
-#include "example.h"
+#include "react-native-sequel.h"
 
 extern "C"
 JNIEXPORT jint JNICALL
